@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "uvtimer", "uvtimer\uvtimer.cproj", "{D090ACB6-7E24-4047-9920-C7C59591DB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D090ACB6-7E24-4047-9920-C7C59591DB81}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D090ACB6-7E24-4047-9920-C7C59591DB81}.Debug|AVR.Build.0 = Debug|AVR
+		{D090ACB6-7E24-4047-9920-C7C59591DB81}.Release|AVR.ActiveCfg = Release|AVR
+		{D090ACB6-7E24-4047-9920-C7C59591DB81}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
