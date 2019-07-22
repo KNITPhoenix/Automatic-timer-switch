@@ -1,0 +1,2 @@
+# Automatic-timer-switch
+It is a timer that takes time in minutes and seconds, displaying that on seven segment display. Thereafter on pressing the start button the timer activates, and switches on the appliance until the time is up. The appliance automatically switches off as soon as the time is up. On little modification, the timer can switch off appliance, instead of switching it on for some time, therefore working in reverse.
